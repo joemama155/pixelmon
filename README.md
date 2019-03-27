@@ -20,6 +20,6 @@ Use ./run.sh to run or use below setup for docker-compose
       MINECRAFT_DIR: /opt/minecraft
  ```
 
-You can disable the extra mods (ExtraUtils, Refined Storage, Pixel Extras) by setting the EXTRA_UTILS, REFINED_STORAGE, or PIXEL_EXTRAS to false. 
+You can disable the extra mods (ExtraUtils, Refined Storage, Pixel Extras, Just Enough Items) by setting the EXTRA_UTILS, REFINED_STORAGE, PIXEL_EXTRAS or JEI to false. 
 
 You can also set JAVA_EXTRA_PARAM to any additional flags you want to pass to increase RAM, etc.
