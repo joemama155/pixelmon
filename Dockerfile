@@ -45,4 +45,4 @@ EXPOSE 25565
 
 WORKDIR /opt/minecraft
 
-CMD [ "/opt/minecraft/server.sh" ]
+CMD [ "/bin/bash", "/opt/minecraft/server.sh" ]
